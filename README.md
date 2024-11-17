@@ -4,15 +4,21 @@
 
 Ejecuta el siguiente comando de git para clonar este repositorio:
 
-`git clone https://github.com/crimanlor/CodeQuestAPI-examen-mf0493_3.git`
+```
+git clone https://github.com/crimanlor/CodeQuestAPI-examen-mf0493_3.git`
+```
 
 Luego instala las dependencias con el siguiente comando de npm:
 
-`npm install`
+```
+npm install
+```
 
 Para levantar el servidor ejecuta el siguiente comando de npm:
 
-`npm run dev`
+```
+npm run dev
+```
 
 ## Setup de la base de datos
 
